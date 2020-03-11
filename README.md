@@ -1,3 +1,9 @@
+# Building a ToDo app in React
+
+**Link to the trainning :**  [Create a todo app in React](https://www.youtube.com/watch?v=pJGeaylipOA&list=PL6WnVoBkDfDSdqqJEisCYLWiFhYuLgwGx)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
